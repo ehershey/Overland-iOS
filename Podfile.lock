@@ -23,7 +23,7 @@ DEPENDENCIES:
   - FMDB (= 2.7.2)
 
 SPEC REPOS:
-  https://github.com/cocoapods/specs.git:
+  https://github.com/CocoaPods/Specs.git:
     - AFNetworking
     - FMDB
 
@@ -33,4 +33,4 @@ SPEC CHECKSUMS:
 
 PODFILE CHECKSUM: 6e6a649d028e312855028a64e582180710fd654c
 
-COCOAPODS: 1.5.3
+COCOAPODS: 1.8.4
